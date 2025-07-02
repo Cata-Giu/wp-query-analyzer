@@ -20,3 +20,11 @@
   <li>Make sure to add <code>define('SAVEQUERIES', true);</code> in your <code>wp-config.php</code> file</li>
   <li>Log in as an administrator to see the panel at the bottom right of the frontend</li>
 </ol>
+
+<img src="https://github.com/Cata-Giu/wp-query-analyzer/blob/abda311e7da6dd6f9cba2ef6f30f422ee88b0305/PluginQuery%20Images/Screenshot%202025-07-02%20184745.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+
+<img src="https://github.com/Cata-Giu/wp-query-analyzer/blob/abda311e7da6dd6f9cba2ef6f30f422ee88b0305/PluginQuery%20Images/Screenshot%202025-07-02%20184820.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+
+<img src="https://github.com/Cata-Giu/wp-query-analyzer/blob/abda311e7da6dd6f9cba2ef6f30f422ee88b0305/PluginQuery%20Images/Screenshot%202025-07-02%20184839.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+
+<img src="https://github.com/Cata-Giu/wp-query-analyzer/blob/abda311e7da6dd6f9cba2ef6f30f422ee88b0305/PluginQuery%20Images/Screenshot%202025-07-02%20184924.png?raw=true" alt="Dashboard Screenshot" width="500"/>
